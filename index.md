@@ -1,3 +1,3 @@
 # Welcome to my site!
 ## Crusade Current Beta
-[Play!](Crusade.hml)
+[Play!](Crusade.html)
