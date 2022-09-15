@@ -1,4 +1,4 @@
-## Add me on [LinkedIn!(https://www.linkedin.com/in/ruben-alias-70168a1b6/)
+## Add me on [LinkedIn!](https://www.linkedin.com/in/ruben-alias-70168a1b6/)
 ## Crusade Current Beta
 [Play!](Crusade.html)
 ## RSVP API Repo
