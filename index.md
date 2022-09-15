@@ -3,3 +3,4 @@
 [Play!](Crusade.html)
 ## RSVP API Repo
 [Here](https://github.com/Herxity/RSVP-Project)
+## [Resume](Ruben.Alias.Resume.pdf)
