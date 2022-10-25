@@ -3,5 +3,5 @@
 ### [Play it in-game](https://play.unity.com/mg/2d/tutorialgame-220)
 ## [RSVP API Repo](https://github.com/Herxity/RSVP-Project)
 ## [Resume](Ruben.Alias.Resume.pdf)
-## [Test Link](https://docs.google.com/viewerng/viewer?url=Ruben.Alias.Resume.pdf)
+## [Test Link](SleeboEveningPrayer.html)
 
