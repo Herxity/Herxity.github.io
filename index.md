@@ -2,6 +2,5 @@
 ## [Read Crusade Story Raws](Crusade.html)
 ### [Play it in-game](https://play.unity.com/mg/2d/tutorialgame-220)
 ## [RSVP API Repo](https://github.com/Herxity/RSVP-Project)
-## [Resume](Ruben.Alias.Resume.pdf)
 ## [Test Link](SleeboEveningPrayer.html)
 
