@@ -14,6 +14,8 @@ https://github.com/Herxity/SWE2024
 
 [Lab 5 Microprocessor](https://github.com/Herxity/Herxity.github.io/blob/3b46cbfc1ecfe9202b216c69bd263a1b0e1240cc/Embedded%20Systems%20Lab%205.pdf)
 # Machine Learning Project
-[Final Paper]()
-[Video Presentation] (https://youtu.be/0V44hF6qgM8)
-[Video Demo] (https://youtube.com/shorts/aYAiYyTyP3w?feature=share)
+[Final Paper](https://github.com/Herxity/Herxity.github.io/blob/618d5d56cff0e5719fc9b009dcec37b9ef1cb01f/Multimodal%20Sensing%20Systems%20Final%20Project%20Paper.pdf)
+
+[Video Presentation](https://youtu.be/0V44hF6qgM8)
+
+[Video Demo](https://youtube.com/shorts/aYAiYyTyP3w?feature=share)
