@@ -12,5 +12,5 @@ https://github.com/Herxity/SWE2024
 
 [Lab 4 VGA Protocol](https://github.com/Herxity/Herxity.github.io/blob/18ed6d109c1c8985cc6436f383d73ec7843791a8/Embedded%20Systems%20Lab%204.pdf)
 
-[Lab 5 Microprocessor]()
+[Lab 5 Microprocessor](https://github.com/Herxity/Herxity.github.io/blob/3b46cbfc1ecfe9202b216c69bd263a1b0e1240cc/Embedded%20Systems%20Lab%205.pdf)
 # Machine Learning Project
