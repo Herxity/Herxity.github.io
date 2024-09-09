@@ -17,6 +17,13 @@
 - Accepts GRISC assembly instructions
 - Designed in VHDL using Xilinx Vivado
 
+# Computer Vision Projects @ New York Yankees
+## Video Feed Angle Classifier
+
+## Bat Tracker
+
+[NYY Summer Report ]
+
 [Lab 1 Clocks and Counters](https://github.com/Herxity/Herxity.github.io/blob/e3187fdcd2914315d0abf00d27fcb534fd366d29/Embedded%20Systems%20Lab%201.pdf)
 
 [Lab 2 ALU](https://github.com/Herxity/Herxity.github.io/blob/725851211bf12117a1fa5471693f22e9ba35cc60/Embedded%20Systems%20Lab%202.pdf)
