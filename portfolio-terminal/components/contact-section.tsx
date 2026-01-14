@@ -11,7 +11,7 @@ export default function ContactSection() {
     >
       <div className="max-w-4xl mx-auto px-6 w-full">
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
+          initial={{ opacity: 1, y: 0 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
@@ -20,7 +20,7 @@ export default function ContactSection() {
           {/* Header */}
           <div>
             <motion.h2
-              initial={{ opacity: 0, scale: 0.9 }}
+              initial={{ opacity: 1, scale: 1 }}
               whileInView={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.6, delay: 0.2 }}
               viewport={{ once: true }}
@@ -29,7 +29,7 @@ export default function ContactSection() {
               Let's Connect
             </motion.h2>
             <motion.p
-              initial={{ opacity: 0 }}
+              initial={{ opacity: 1 }}
               whileInView={{ opacity: 1 }}
               transition={{ duration: 0.6, delay: 0.4 }}
               viewport={{ once: true }}
@@ -41,7 +41,7 @@ export default function ContactSection() {
 
           {/* Terminal output */}
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 1, y: 0 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6 }}
             viewport={{ once: true }}
@@ -101,7 +101,7 @@ export default function ContactSection() {
 
           {/* Contact buttons */}
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 1, y: 0 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.8 }}
             viewport={{ once: true }}
@@ -177,7 +177,7 @@ export default function ContactSection() {
 
           {/* Status badge */}
           <motion.div
-            initial={{ opacity: 0, scale: 0.8 }}
+            initial={{ opacity: 1, scale: 1 }}
             whileInView={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6, delay: 1 }}
             viewport={{ once: true }}
@@ -194,7 +194,7 @@ export default function ContactSection() {
 
           {/* Footer */}
           <motion.div
-            initial={{ opacity: 0 }}
+            initial={{ opacity: 1 }}
             whileInView={{ opacity: 1 }}
             transition={{ delay: 1.2, duration: 1 }}
             viewport={{ once: true }}

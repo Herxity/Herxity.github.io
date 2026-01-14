@@ -13,11 +13,9 @@ const commands = [
 
 export default function TerminalHeader() {
   const [currentCommand, setCurrentCommand] = useState(0);
-  const [isVisible, setIsVisible] = useState(false);
+  const [isVisible, setIsVisible] = useState(true);
 
   useEffect(() => {
-    setIsVisible(true);
-
     const handleScroll = () => {
       const scrollPosition = window.scrollY + window.innerHeight / 2;
       const sections = commands.map((cmd) =>
@@ -44,8 +42,8 @@ export default function TerminalHeader() {
 
   return (
     <motion.div
-      initial={{ y: -100, opacity: 0 }}
-      animate={{ y: isVisible ? 0 : -100, opacity: isVisible ? 1 : 0 }}
+      initial={{ y: 0, opacity: 1 }}
+      animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.6, ease: "easeOut" }}
       className="fixed top-0 left-0 right-0 z-50 backdrop-blur-xl bg-black/60 border-b border-white/10 shadow-2xl"
     >

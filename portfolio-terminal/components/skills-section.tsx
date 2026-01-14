@@ -78,7 +78,7 @@ export default function SkillsSection() {
       <div className="max-w-7xl mx-auto px-6">
         {/* Section header */}
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 1, y: 0 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
@@ -93,7 +93,7 @@ export default function SkillsSection() {
 
           {/* JSON preview */}
           <motion.div
-            initial={{ opacity: 0, scale: 0.95 }}
+            initial={{ opacity: 1, scale: 1 }}
             whileInView={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6, delay: 0.2 }}
             viewport={{ once: true }}
@@ -116,7 +116,7 @@ export default function SkillsSection() {
           {skillCategories.map((category, catIndex) => (
             <motion.div
               key={category.category}
-              initial={{ opacity: 0, y: 30 }}
+              initial={{ opacity: 1, y: 0 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: catIndex * 0.1 }}
               viewport={{ once: true }}
@@ -140,7 +140,7 @@ export default function SkillsSection() {
                   {category.skills.map((skill, skillIndex) => (
                     <motion.div
                       key={skill.name}
-                      initial={{ opacity: 0, x: -20 }}
+                      initial={{ opacity: 1, x: 0 }}
                       whileInView={{ opacity: 1, x: 0 }}
                       transition={{
                         duration: 0.5,
@@ -159,7 +159,7 @@ export default function SkillsSection() {
                       </div>
                       <div className="relative h-1.5 bg-white/5 rounded-full overflow-hidden">
                         <motion.div
-                          initial={{ width: 0 }}
+                          initial={{ width: `${skill.level}%` }}
                           whileInView={{ width: `${skill.level}%` }}
                           transition={{
                             duration: 1,
